@@ -31,3 +31,8 @@ The dataset and the pre-trained model used have been uploaded in the Respository
 
 ![alt text](https://i.imgur.com/nyYh5xH.jpg "Resnet34")
 
+## Test time footage
+
+  I have attached a picture which was taken during the test time.
+  
+![alt text]("https://drive.google.com/file/d/1plqTBY3oy7JSwgHk4B11I3iLuQ9kHRP-/view?usp=sharing")
