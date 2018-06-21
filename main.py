@@ -12,7 +12,6 @@ from fastai.model import *
 from fastai.dataset import *
 from fastai.sgdr import *
 from fastai.plots import *
-import numpy as np
 import os
 import progressbar
 from time import sleep
