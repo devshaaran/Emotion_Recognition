@@ -33,4 +33,4 @@ The dataset and the pre-trained model used have been uploaded in the Respository
 
 ## Test time footage
    
-   If  you would want a preview you can checkout the Image along with this repository
+   If  you would want a preview you can checkout the Image along with this repository for a proof of what has been done.
